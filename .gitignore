@@ -1,0 +1,18 @@
+# ignore unneeded proj files
+*.clang-format
+*.code-workspace
+*.DS_Store
+*.exe
+*.out
+makefile
+BHeap.cpp
+CDA.cpp
+RBTree.cpp
+Heap.cpp
+
+# allow these output files
+!/BHeap/1/correct.out
+!/Heap/1/correct.out 
+!/RBTree/1/correct.out
+!/RBTree/2/correct.out
+!/RBTree/3/correct.out
