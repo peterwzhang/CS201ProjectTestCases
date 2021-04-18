@@ -49,4 +49,5 @@ int main() {
     FFF.printKey();
     FF.printKey();
     F.printKey();
+    return 0;
 }
