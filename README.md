@@ -25,3 +25,5 @@ Each data structure has its own folder, inside each folder you will find a folde
 3. Verify your output with the correct output files given.
 
 **Alternatively** you can use my project grader found [here](https://github.com/PeterTheAmazingAsian/ProjectGrader) to simulate grading similar to submission grading.
+
+## Contributing
